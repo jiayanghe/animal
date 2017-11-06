@@ -12,10 +12,14 @@
 	padding: 10px;
 }
 
-span {
+.bold {
 	font-weight: bold;
 }
 
 li {
 	list-style-type: none;
+}
+
+.interesting-fact {
+	font-style: italic;
 }
